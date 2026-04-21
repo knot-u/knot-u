@@ -49,10 +49,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/knot-u/knot-u/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-<br clear="both">
-###
-
 <br clear="both">
 
 <div align="center">
