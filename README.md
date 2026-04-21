@@ -43,8 +43,6 @@
 
 <h1 align="left"></h1>
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knot-u/knot-u/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knot-u/knot-u/output/pacman-contribution-graph.svg">
