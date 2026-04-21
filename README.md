@@ -2,7 +2,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.google.com">
+  <a href="https://react-cv-fe.vercel.app/">
     <img height="60" src="https://i.postimg.cc/RVPwnZXr/portfolio-icon-white-sign-business-concept-flat-style-illustration-for-design-web-infographic-vector.png"/>
   </a>
 </div>
